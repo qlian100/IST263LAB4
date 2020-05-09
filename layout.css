@@ -1,0 +1,64 @@
+body{
+	background-color: #ffff00;
+	
+}
+
+
+.first{
+
+	background-color: #006600;
+	border: 5px solid #0000ff;
+	color:#ffffff;
+	padding: 20px;
+	width: 50%
+
+
+
+/* side, style, color 520 */ 
+
+
+}
+
+.second{
+
+	background-color: #292929;
+	border: 5px solid #0000ff;
+	margin-top: 5px;
+	padding: 20px;
+	color: #ffffff;
+	width: 50%
+}
+
+
+
+/*
+width is dimentional property assigning 
+width (horizontal)
+
+height: dimensional property assigning 
+height (vertical); not always a great idea to assign a special height
+
+
+max-width & min-width
+
+/*
+
+-----CSS BOX MODEL-----
+
+4 property that all work together to allow us to figure out how much space an element occupies
+
+width: dimension property *Starting point for box model math*;
+
+------the 3 below ADD to the amount of spae occupies by an element-----
+
+padding: empty space added to INSIDE of an element;
+margin: empty space added to OUTSIDE of an element;
+border: a stylistic "line" added to edge of one or more sides of an element;
+
+
+
+/*
+
+/*
+
+/*
